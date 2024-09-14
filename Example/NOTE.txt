@@ -1,0 +1,1 @@
+Due to GitHub's file size limitations, please download larger example files from the SMART website: http://www.stat.sinica.edu.tw/hsinchou/metabolomics/SMART.htm
