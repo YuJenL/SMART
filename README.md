@@ -1,3 +1,12 @@
 # SMART
 SMART written in R and R GUI has been developed as user-friendly software for integrated analysis of metabolomics data.
-SMART streamlines the complete analysis flow from initial data preprocessing to downstream association analysis, consisting of analyzing different data file formats (e.g., .raw, .d, and mzXML), visually representing various types of data features (e.g., total ion chromatogram (TIC) and mass spectra), implementing peak analysis for both untargeted data and target data, conducting quality control for samples and peaks, exploring batch effects (e.g., known experimental conditions, unknown latent groups (LGs), or hidden substructures),  performing statistical analysis (ANCOVA, PLS/PLS-DA) and integrative omics pathway analysis (IOPA), and accomplish post analysis including peak identification and concentration calibration.
+
+SMART streamlines the complete analysis flow from initial data preprocessing to downstream association analysis, consisting of different modules.
+1.	Data Import: Analyze different data file formats (e.g., .raw, .d, and mzXML).
+2.	Data Visualization: Visually represent various types of data features (e.g., total ion chromatogram (TIC) and mass spectra).
+3.	Peak Analysis: Implement peak analysis for both untargeted and targeted data.
+4.	Data Preprocessing: Perform data transformation and standardization.
+5.	Quality Control: Conduct quality control for samples and peaks.
+6.	Batch Effect Analysis: Explore batch effects (e.g., known experimental conditions, unknown latent groups (LGs), or hidden substructures).
+7.	Statistical Analysis: Perform ANCOVA, PLS/PLS-DA, and conduct integrative omics pathway analysis (IOPA).
+8.	Post-analysis: Complete steps such as peak identification and concentration calibration.
