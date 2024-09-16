@@ -16,3 +16,5 @@ SMART streamlines the complete analysis flow from initial data preprocessing to 
 
 *Correspondence:
   Dr. Hsin-Chou Yang, Institute of Statistical Science, Academia Sinica, 128, Academia Road, Section 2 Nankang, Taipei 115, Taiwan. (Fax) 886-2-27886833; (Tel) 886-2-27875686; (E-mail) hsinchou@stat.sinica.edu.tw 
+
+*YouTube: https://www.youtube.com/watch?v=7xujCTTlfS8 (Chinese)
