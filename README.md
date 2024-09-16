@@ -11,7 +11,6 @@ SMART streamlines the complete analysis flow from initial data preprocessing to 
 7.	Statistical Analysis: Perform ANCOVA, PLS/PLS-DA, and conduct integrative omics pathway analysis (IOPA).
 8.	Post-analysis: Complete steps such as peak identification and concentration calibration.
 
-
 *Citation:
   Yu-Jen Liang, Yu-Ting Lin, Chia-Wei Chen, Chien-Wei Lin, Kun-Mao Chao, Wen-Harn Pan and Hsin-Chou Yang (2016/05). SMART: Statistical Metabolomics Analysis – An R Tool. Analytical Chemistry 88, 6334 – 6341.
 
