@@ -12,6 +12,7 @@ SMART streamlines the complete analysis flow from initial data preprocessing to 
 8.	Post-analysis: Execute peak identification and concentration calibration.
 
 *Citations: 
-Yu-Jen Liang, Yu-Ting Lin, Chia-Wei Chen, Chien-Wei Lin, Kun-Mao Chao, Wen-Harn Pan and Hsin-Chou Yang (2016/05). SMART: Statistical Metabolomics Analysis – An R Tool. Analytical Chemistry 88, 6334 – 6341. 
+Yu-Jen Liang, Yu-Ting Lin, Chia-Wei Chen, Chien-Wei Lin, Kun-Mao Chao, Wen-Harn Pan and Hsin-Chou Yang (2016/05). SMART: Statistical Metabolomics Analysis – An R Tool. Analytical Chemistry 88, 6334 – 6341.
 Yu-Jen Liang, Chih-Ting Yang, Chia-Wei Chen, Yin-Chun Lin, Shu-Yao Lin, Wen-Harn Pan, Yi Sheng Wang and Hsin-Chou Yang (2024). SMART 2.0: Statistical Metabolomics Analysis – An R Tool 2.0. (Submitted)
+
 *Correspondence: Dr. Hsin-Chou Yang, Institute of Statistical Science, Academia Sinica. No. 128, Sec. 2, Academia Road, Nankang, Taipei 115, Taiwan. (Fax) 886-2-27886833; (Tel) 886-2-27875686; (E-mail) hsinchou@stat.sinica.edu.tw.
